@@ -1,3 +1,7 @@
+"""
+Programa de divisas en especifico de Dolar USD  a YuaneChinos(CNY)
+"""
+
 def convertir_usd_a_cny(usd):
     """
     Convierte una cantidad de dólares estadounidenses (USD) a yuanes chinos (CNY).

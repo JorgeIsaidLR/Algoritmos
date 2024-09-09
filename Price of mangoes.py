@@ -1,3 +1,6 @@
+"""
+PROGRAMA QEU CALCULA EL PRECIO DE MANGOS
+"""
 def mango(cantidad, precio_por_mango):
     """
     Calcula el costo total de los mangos considerando la oferta "3 por 2".

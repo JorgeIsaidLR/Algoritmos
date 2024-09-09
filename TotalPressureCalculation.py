@@ -1,3 +1,6 @@
+"""
+PROGRAMA PARA CALCULAR LA PRESION TOTAL APLICADA
+"""
 def calcular_presion_total(m1, M1, m2, M2, V, T):
     # Constante de gases ideales
     R = 0.082  # dm^3 * atm / (K * mol)

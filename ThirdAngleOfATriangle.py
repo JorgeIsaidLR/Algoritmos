@@ -1,3 +1,6 @@
+"""
+PROGRAMA QUE CLACULA LA TERCER ARE ADEL TRIANGULO
+"""
 def tercer_angulo(angulo1, angulo2):
     """
     Calcula el tercer ángulo de un triángulo dado que se conocen los otros dos ángulos interiores.
