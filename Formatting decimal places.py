@@ -1,3 +1,4 @@
+
 def round_to_two_decimals(number):
     """
     Función para redondear un número a dos decimales.

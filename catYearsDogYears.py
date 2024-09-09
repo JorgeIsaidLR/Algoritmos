@@ -1,3 +1,6 @@
+"""
+PROGRAMA QUE CALCULA LA EDAD DE UN PERRO Y UN GATO EN AÑOS HUMANOS
+"""
 #calcula la edad del perro y el gato en años hunamnosf
 def calcular_edad_animal(humanYears):
     # Años de gato
